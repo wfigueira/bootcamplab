@@ -1,1 +1,2 @@
-# bootcamplab
+# wscicd
+Workshop CiCd
